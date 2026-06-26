@@ -1,6 +1,6 @@
-# Hamza Weslati
+# Hey there! 🤭
 
-Web Developer • Founder of LocalBoost Studio
+I'm Hamza(اجعلها بلون الزرق و تحتها سطر), a Web Developer • Founder of LocalBoost Studio
 
 I build fast, responsive, and user-focused websites that help local businesses establish a strong online presence.
 
@@ -16,9 +16,6 @@ My primary focus is web development, from responsive front-end interfaces to bac
 * PHP
 * MySQL
 * Python
-* C
-* C#
-* Qt5
 * Git & GitHub
 
 ## Current Focus
