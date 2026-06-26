@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hamza Weslati
 
-<!--
-**localbtstudio-tech/localbtstudio-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer • Founder of LocalBoost Studio
 
-Here are some ideas to get you started:
+I build fast, responsive, and user-focused websites that help local businesses establish a strong online presence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+My primary focus is web development, from responsive front-end interfaces to back-end functionality. I enjoy creating clean, maintainable solutions and continuously improving my development workflow.
+
+### Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
+* Python
+* C
+* C#
+* Qt5
+* Git & GitHub
+
+## Current Focus
+
+* Building LocalBoost Studio
+* Developing websites for local businesses
+* Expanding my portfolio with real-world projects
+
+## Contact
+
+* Portfolio: https://localbtstudio-tech.github.io/Portfolio/
+* Email: [localbtstudio@gmail.com](mailto:localbtstudio@gmail.com)
+* LinkedIn: [www.linkedin.com/in/hamza-weslati](http://www.linkedin.com/in/hamza-weslati)
