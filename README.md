@@ -13,31 +13,31 @@ I've built over 3 public repos, and quite a few more privately.
 ## Tech Stack
 
 ### 💻 Programming Languages
-HTML<br>
-CSS<br>
-JavaScript<br>
-PHP<br>
-Python<br>
-C (Basic knowledge)<br>
-C# (Basic knowledge)
+* HTML<br>
+* CSS<br>
+* JavaScript<br>
+* PHP<br>
+* Python<br>
+* C (Basic knowledge)<br>
+* C# (Basic knowledge)
 ### 🧠 Backend
-PHP<br>
-Node.js
+* PHP<br>
+* Node.js
 ### 🗄️ Database
-MySQL<br>
-Firebase
+* MySQL<br>
+* Firebase
 ### 🎨 Frontend
-Tailwind CSS<br>
-Responsive Design<br>
+* Tailwind CSS<br>
+* Responsive Design<br>
 ### 🤖 AI & APIs
-OpenAI API<br>
-REST APIs<br>
-Google Maps API
+* OpenAI API<br>
+* REST APIs<br>
+* Google Maps API
 ### 🛠️ Tools & Platforms
-Git<br>
-GitHub<br>
-VS Code<br>
-Postman
+* Git<br>
+* GitHub<br>
+* VS Code<br>
+* Postman
 
 ## Current Focus
 
