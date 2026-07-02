@@ -33,7 +33,7 @@ Responsive Design<br>
 OpenAI API<br>
 REST APIs<br>
 Google Maps API
-# 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 Git<br>
 GitHub<br>
 VS Code<br>
