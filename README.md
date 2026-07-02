@@ -12,7 +12,7 @@ I've built over 3 public repos, and quite a few more privately.
 
 ### Tech Stack
 
-## 💻 Programming Languages
+# 💻 Programming Languages
 HTML<br>
 CSS<br>
 JavaScript<br>
@@ -20,20 +20,20 @@ PHP<br>
 Python<br>
 C (Basic knowledge)<br>
 C# (Basic knowledge)
-## 🧠 Backend
+# 🧠 Backend
 PHP<br>
 Node.js
-## 🗄️ Database
+# 🗄️ Database
 MySQL<br>
 Firebase
-## 🎨 Frontend
+# 🎨 Frontend
 Tailwind CSS<br>
 Responsive Design<br>
-## 🤖 AI & APIs
+# 🤖 AI & APIs
 OpenAI API<br>
 REST APIs<br>
 Google Maps API
-## 🛠️ Tools & Platforms
+# 🛠️ Tools & Platforms
 Git<br>
 GitHub<br>
 VS Code<br>
