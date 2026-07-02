@@ -10,15 +10,34 @@ My focus is web development, from front-end interfaces to back-end functionality
 
 I've built over 3 public repos, and quite a few more privately.
 
-### Tech Stack
+###Tech Stack
 
-* HTML
-* CSS
-* JavaScript
-* PHP
-* MySQL
-* Python
-* Git & GitHub
+## 💻 Programming Languages
+HTML
+CSS
+JavaScript
+PHP
+Python
+C (Basic knowledge)
+C# (Basic knowledge)
+## 🧠 Backend
+PHP
+Node.js
+## 🗄️ Database
+MySQL
+Firebase
+## 🎨 Frontend
+Tailwind CSS
+Responsive Design (Mobile-first)
+## 🤖 AI & APIs
+OpenAI API
+REST APIs
+Google Maps API
+## 🛠️ Tools & Platforms
+Git
+GitHub
+VS Code
+Postman
 
 ## Current Focus
 
