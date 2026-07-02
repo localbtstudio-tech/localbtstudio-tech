@@ -14,29 +14,29 @@ I've built over 3 public repos, and quite a few more privately.
 
 ## 💻 Programming Languages
 HTML<br>
-CSS
-JavaScript
-PHP
-Python
-C (Basic knowledge)
+CSS<br>
+JavaScript<br>
+PHP<br>
+Python<br>
+C (Basic knowledge)<br>
 C# (Basic knowledge)
 ## 🧠 Backend
-PHP
+PHP<br>
 Node.js
 ## 🗄️ Database
-MySQL
+MySQL<br>
 Firebase
 ## 🎨 Frontend
-Tailwind CSS
-Responsive Design (Mobile-first)
+Tailwind CSS<br>
+Responsive Design<br>
 ## 🤖 AI & APIs
-OpenAI API
-REST APIs
+OpenAI API<br>
+REST APIs<br>
 Google Maps API
 ## 🛠️ Tools & Platforms
-Git
-GitHub
-VS Code
+Git<br>
+GitHub<br>
+VS Code<br>
 Postman
 
 ## Current Focus
