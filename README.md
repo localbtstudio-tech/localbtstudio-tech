@@ -4,6 +4,8 @@ I'm [Hamza](https://github.com/localbtstudio-tech), a Web Developer and Founder 
 
 I build fast, responsive, and user-focused websites that help local businesses establish a stronger online presence.
 
+I use AI as a creative and productivity tool to work smarter, refine ideas, and deliver better results.
+
 My focus is web development, from front-end interfaces to back-end functionality. I care about clean code, maintainable solutions, and steady improvement.
 
 I've built over 3 public repos, and quite a few more privately.
