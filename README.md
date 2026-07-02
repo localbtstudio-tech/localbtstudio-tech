@@ -10,7 +10,7 @@ My focus is web development, from front-end interfaces to back-end functionality
 
 I've built over 3 public repos, and quite a few more privately.
 
-###Tech Stack
+### Tech Stack
 
 ## 💻 Programming Languages
 HTML<br>
