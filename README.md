@@ -1,6 +1,6 @@
 ### Hey there! 🤭
 
-I'm[Hamza](https://github.com/localbtstudio-tech), an IT Student and Web Developer interested in building modern, responsive, and user-focused web experiences.
+I'm [Hamza](https://github.com/localbtstudio-tech), an IT Student and Web Developer interested in building modern, responsive, and user-focused web experiences.
 
 I enjoy turning ideas into real-world projects while continuously improving my skills in web development, software development, and IT.
 
