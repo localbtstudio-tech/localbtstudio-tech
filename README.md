@@ -129,11 +129,10 @@ I'm focused on:
 
 ## 📊 GitHub
 
-I use GitHub to document my learning journey, build projects, experiment with technologies, and track my progress as a developer.
-
-> Learn → Build → Improve → Repeat
-
-[![GitHub](https://img.shields.io/badge/GitHub-localbtstudio--tech-181717?style=for-the-badge&logo=github)](https://github.com/localbtstudio-tech)ages](https://github-readme-stats.vercel.app/api/top-langs/?username=localbtstudio-tech\&layout=compact\&hide_border=true\&theme=transparent)
+- 💻 10+ public repositories
+- 🚀 Building practical projects to strengthen my development skills
+- 📚 Learning through hands-on development
+- 🔧 Using Git & GitHub for version control
 
 ---
 
