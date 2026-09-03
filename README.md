@@ -127,11 +127,13 @@ I'm focused on:
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=localbtstudio-tech\&show_icons=true\&hide_border=true\&theme=transparent)
+I use GitHub to document my learning journey, build projects, experiment with technologies, and track my progress as a developer.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=localbtstudio-tech\&layout=compact\&hide_border=true\&theme=transparent)
+> Learn → Build → Improve → Repeat
+
+[![GitHub](https://img.shields.io/badge/GitHub-localbtstudio--tech-181717?style=for-the-badge&logo=github)](https://github.com/localbtstudio-tech)ages](https://github-readme-stats.vercel.app/api/top-langs/?username=localbtstudio-tech\&layout=compact\&hide_border=true\&theme=transparent)
 
 ---
 
