@@ -1,52 +1,48 @@
-# 👋 Hey, I'm Hamza
+# 👋 Hey, I'm Hamza Weslati
 
-### IT Student · Web Developer · Software Development
+### IT Student · Software Developer · Cybersecurity Learner
 
-I'm an **IT Student and Web Developer** interested in building modern, responsive, and user-focused web applications.
+I'm an **IT Student and Software Developer** focused on building practical software projects while strengthening my foundations in programming, backend development, and cybersecurity.
 
-I enjoy learning by building real projects, experimenting with new technologies, and continuously improving my programming and software development skills.
+I learn mainly by **building, testing, breaking, and improving real projects**.
 
-My current focus is strengthening my foundations in **web development, backend development, databases, APIs, and software development** while building projects that demonstrate what I can do.
+My current journey combines **Python, Web Development, Software Development, and Cybersecurity**, with a focus on turning what I learn into practical applications.
 
 ---
 
 ## 🧑‍💻 About Me
 
 * 🎓 IT Student
-* 💻 Focused on Web & Software Development
-* 🚀 Learning by building practical projects
-* 🤖 Interested in AI-powered applications
-* 🧠 Continuously improving my programming fundamentals
-* 🔧 Building projects to grow my portfolio and experience
+* 💻 Interested in Software & Web Development
+* 🐍 Building practical projects with Python
+* 🔐 Developing my Cybersecurity foundations
+* ⚙️ Learning Backend Development & APIs
+* 🗄️ Exploring Databases and Data Management
+* 🚀 Learning through hands-on projects
+* 📚 Continuously improving my programming fundamentals
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🎨 Frontend
+### 🌐 Web Development
 
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive_Design-111827?style=for-the-badge" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
 </p>
 
 ### 🗄️ Databases
@@ -56,12 +52,13 @@ My current focus is strengthening my foundations in **web development, backend d
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### 🤖 AI & APIs
+### 🔐 Cybersecurity & Python
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLI_Tools-111827?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
 ### 🧰 Tools
@@ -75,64 +72,85 @@ My current focus is strengthening my foundations in **web development, backend d
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔴 Apex Redline
+### 🔐 CYBERLAB
 
-A motorsport-inspired web project focused on modern UI/UX, responsive design, and immersive visual presentation.
+An interactive cybersecurity learning platform focused on practical investigation missions, evidence analysis, answer validation, and backend development.
 
-**Technologies:** HTML · CSS · JavaScript
-
----
-
-### 🏋️ TITAN GYM
-
-A responsive gym landing page built to practice modern web design, layout structure, and front-end development.
-
-**Technologies:** HTML · CSS · JavaScript · Vite
+**Technologies:** HTML · CSS · JavaScript · PHP
 
 ---
 
-### 🌐 LocalBoost Studio
+### 🖥️ Python System Monitor
 
-A personal project and learning experience created to explore **web development, business websites, UI/UX, and client-oriented digital experiences**.
+A Python-based system monitoring application built to practice system information, resource monitoring, process management, OOP, JSON configuration, and logging.
 
-The project helped me practice turning ideas into complete web experiences while improving my development workflow and portfolio.
+**Technologies:** Python · OOP · JSON · Logging · psutil
 
-**Technologies:** HTML · CSS · JavaScript · UI/UX
+---
+
+### 🛡️ Python Security Toolkit
+
+A command-line security toolkit built to practice practical cybersecurity concepts including password analysis, hashing, file hashing, encoding, port scanning, and IP information.
+
+**Technologies:** Python · Security · Networking · Hashing · CLI
 
 ---
 
 ## 📚 Currently Learning
 
-I'm currently focused on improving my skills in:
+My current focus is on building a stronger foundation across:
 
-* 🌐 Advanced Web Development
-* ⚙️ Backend Development
-* 🗄️ Databases & Data Management
+* 🐍 Python Programming
+* 🔐 Cybersecurity Fundamentals
+* 🌐 Web & Backend Development
+* 🗄️ Databases
 * 🔌 APIs & Web Services
 * 🧩 Software Development
-* 🤖 AI & AI-powered Applications
-* 🔐 IT & Cybersecurity fundamentals
+* 🖥️ Networking & System Fundamentals
+* 🛠️ Git & Development Workflows
 
 ---
 
-## 🎯 Goals
+## 🎯 My Learning Path
 
-My goal is to become a strong **Software / Web Developer** by combining solid programming fundamentals with practical project experience.
+I'm following a practical approach based on:
 
-I'm focused on:
+**Learn → Build → Understand → Improve**
 
-**Learn → Build → Improve → Repeat**
+My current progression is:
+
+```text
+Programming Fundamentals
+        ↓
+Python
+        ↓
+Software Development
+        ↓
+Cybersecurity Fundamentals
+        ↓
+Security Projects
+        ↓
+Advanced Cybersecurity
+```
+
+I focus on understanding **how things work**, not only making them work.
 
 ---
 
-## 📊 GitHub
+## 📈 What I'm Building
 
-- 💻 10+ public repositories
-- 🚀 Building practical projects to strengthen my development skills
-- 📚 Learning through hands-on development
-- 🔧 Using Git & GitHub for version control
+My GitHub is mainly a record of my learning journey through practical projects.
+
+I use projects to:
+
+* 🧠 Strengthen programming fundamentals
+* 🔧 Practice real development workflows
+* 🔐 Apply cybersecurity concepts
+* 🧪 Experiment with new technologies
+* 📚 Document what I learn
+* 🚀 Build increasingly complex projects
 
 ---
 
@@ -154,4 +172,4 @@ I'm focused on:
 
 ---
 
-### 💡 Building my skills, one project at a time.
+### 💡 Building skills through code, one project at a time.
